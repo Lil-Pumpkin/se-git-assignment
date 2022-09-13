@@ -36,9 +36,16 @@ Di repository ini, buka file bernama `case-study.md`. Disana akan ada case study
 
   > Pastikan semuanya sama!
 
+# Ruang Belajar
+
+Contributor:
+
+- `Aris Cahyadi - FE3148642`
+- `Bob`
 ## Output
 
-- Link Github Repository _(hasil pengerjaan case study)_
+- Link Github Repository _(https://github.com/Lil-Pumpkin/se-git-assignment)_
+
 
 ## Output yang harus disubmit ke LMS
 
